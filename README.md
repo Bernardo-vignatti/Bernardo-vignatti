@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **bernardovignatti753@gmail.com**
 
-- ⚡ Fun fact **I am Brazilian**
+- ⚡ Fun fact: **I am Brazilian**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
