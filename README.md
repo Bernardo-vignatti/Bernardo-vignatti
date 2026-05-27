@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bernardo</h1>
 <h3 align="center">Experience with Python, HTML5, and backend development. Focused on building practical projects and continuously improving technical and engineering skills.</h3>
 
-- 🔭 I’m currently working on [Cupgozado](https://github.com/rafapwebster-boop/CupGozado)
-- 🌱 I’m currently learning **GDScript**
+- 🔭 I’m currently working on ---
+- 🌱 I’m currently learning **JS**
 - 📫 How to reach me **bernardovignatti753@gmail.com**
 - ⚡ Fun fact: **I am Brazilian**
 
