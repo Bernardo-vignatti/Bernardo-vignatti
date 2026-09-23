@@ -59,11 +59,7 @@ Currently focused on Python, JavaScript, backend development, networking, and em
 
 ## Featured Project
 
-### 🚑 Hospital Status System
-
-A real-time hospital monitoring system designed to visualize and manage hospital operational status through an intuitive web interface.
-
-🔗 https://github.com/Bernardo-vignatti/Hospital-Status-System
+### Not listed
 
 ---
 
