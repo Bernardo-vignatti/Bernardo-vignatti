@@ -1,91 +1,109 @@
-<h1 align="center">Hi 👋, I'm Bernardo Vignatti</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • Engineering Enthusiast • Always Learning
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0e2a47&height=120&text=Bernardo%20Vignatti&fontSize=40&fontColor=e6edf3&fontAlign=50&fontAlignY=50" width="100%" />
 
-<p align="center">
-Passionate about building practical software, automation systems, and engineering projects.<br>
-Currently focused on Python, JavaScript, backend development, networking, and embedded systems.
-</p>
+**Software Developer** &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Automation &nbsp;|&nbsp; Game Modding
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bernardo-vignatti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<a href="mailto:bernardovignatti753@gmail.com"><img src="https://img.shields.io/badge/Email-0e2a47?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Bernardo-vignatti"><img src="https://img.shields.io/badge/GitHub-0e2a47?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Brazil-0e2a47?style=flat-square" />
+
+</div>
 
 ---
 
-## About Me
+### About
 
-- 🔭 Currently working on **personal software and engineering projects**
-- 🌱 Currently learning **JavaScript, Backend Development, and System Design**
-- 💻 Interested in **Automation, Networking, Embedded Systems, Web Development, and Engineering**
-- 📫 Reach me at **bernardovignatti753@gmail.com**
-- 🇧🇷 Based in Brazil
+I build practical software that connects code to the real world, from ESP32-based
+telemetry rigs to real-time web dashboards and mods for games I play.
+I care about clear documentation, automated tests and tools that actually get used.
+
+**Currently focused on:** backend development, system design and self-hosted infrastructure.
 
 ---
 
-## Tech Stack
+### Featured Projects
 
-<p align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
+**[TeleEmpuxo](https://github.com/Bernardo-vignatti/TeleEmpuxo-APP)**<br/>
+Real-time thrust telemetry for rocket motor testing. ESP32 + HX711 load cell,
+WebSocket streaming, desktop app and OBS overlays for live broadcasts.<br/>
+<sub>`ESP32` `Python` `WebSocket`</sub>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-</a>
+**[Hospital Status System](https://github.com/Bernardo-vignatti/Hospital-Status-System)**<br/>
+Public status page for critical hospital infrastructure. Changes are requested through
+GitHub Issues and reviewed in a pending queue by Actions and a Cloudflare Worker.<br/>
+<sub>`JavaScript` `GitHub Actions` `Cloudflare Workers`</sub>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</a>
+**[LBracing Ops](https://github.com/Bernardo-vignatti/lbracing-ops)**<br/>
+Real-time dispatch panel for a racing community. Race control raises Safety Car and
+Medical Car calls; on-duty staff see them instantly on mobile.<br/>
+<sub>`TypeScript` `Real-time` `SQL`</sub>
 
-<a href="https://www.blender.org/" target="_blank">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
+**[CommNet Luna Bridge](https://github.com/Bernardo-vignatti/CommNetLunaBridge)**<br/>
+Kerbal Space Program mod that syncs CommNet Constellation across Luna Multiplayer
+sessions. Client and server plugins, data migrator and automated tests.<br/>
+<sub>`C#` `Harmony` `Mono`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Power Grid: Flashback Compat](https://github.com/Bernardo-vignatti/Power-Grid-Flashback-Compat)**<br/>
+Minecraft mod that makes Create: Power Grid compatible with Flashback replays,
+fixing a replay crash and recording wire and gauge state.<br/>
+<sub>`Java` `NeoForge 1.21.1`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[PDF to PPTX](https://github.com/Bernardo-vignatti/PDF_to_PTT)** &nbsp;·&nbsp; [Live demo](https://bernardo-vignatti.github.io/PDF_to_PTT/)<br/>
+Converts PDF files into PowerPoint presentations, either fully in the browser
+(no upload) or through a Python CLI for batch jobs.<br/>
+<sub>`Python` `JavaScript`</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,java,html,css,nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,cloudflare,githubactions,git,vscode,blender" />
 </p>
 
----
-
-## Featured Project
-
-### Not listed
+**Also working with:** ESP32 / Arduino, WebSocket, REST APIs, SQL, self-hosted Linux servers.
 
 ---
 
-## GitHub Stats
+### GitHub Activity
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bernardo-vignatti&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-vignatti&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bernardo-vignatti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_rank=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-vignatti&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+</div>
 
 ---
 
-<p align="center">
-<i>"Building practical solutions through software and engineering."</i>
-</p>
+<div align="center">
+<sub>Open to collaboration on embedded, automation and backend projects.</sub>
+</div>
